@@ -184,3 +184,48 @@ Contribution to Success:
 
 Ensures that the development process is efficient, transparent, and agile, contributing to timely and high-quality product delivery.
 
+# UI Component Patterns
+The Airbnb Clone project will consist of various reusable UI components that help structure the user interface and provide a seamless experience. Below is a description of the core components planned for implementation:
+
+1. Navbar
+The Navbar will serve as the main navigation bar of the platform, allowing users to easily access the core sections of the site. It will be a responsive component, adapting to various screen sizes, ensuring optimal usability on both desktop and mobile devices.
+
+Key Features:
+
+Logo and brand name (linked to the homepage).
+Navigation links for main sections (e.g., Home, Listings, About, Contact).
+Search bar to allow users to quickly find properties by location, dates, and other filters.
+User authentication buttons (Login/Sign Up) for user account access.
+Dropdown menu for additional actions such as account settings.
+Responsive design to adapt to different screen sizes.
+Contribution to Success:
+
+Provides quick access to core functionality, enhancing navigation and overall user experience.
+2. Property Card
+The Property Card will be a reusable component used on the property listing page to display key information about each property. This component is designed to provide a snapshot of a property with essential details while maintaining a clean and visually appealing layout.
+
+Key Features:
+
+Property image or gallery thumbnail.
+Title and brief description of the property.
+Price per night.
+Ratings and reviews (if available).
+Location and availability details.
+"View Details" or "Book Now" call-to-action button.
+Contribution to Success:
+
+Acts as the first point of contact for users browsing listings, presenting vital information in an engaging and concise format.
+3. Footer
+The Footer will be a static component that appears at the bottom of every page. It will contain links to legal, social, and informational resources, providing essential links for users without cluttering the main content.
+
+Key Features:
+
+Quick links to important pages (e.g., Privacy Policy, Terms of Service, Help Center).
+Social media icons for brand presence and easy access to social profiles.
+Contact information or company details.
+Responsive design, ensuring it looks well-organized on all screen sizes.
+Contribution to Success:
+
+Completes the page layout with essential links, ensuring users can access important information without navigating away from the current page.
+These UI components will be fundamental building blocks for the Airbnb Clone project, promoting reusability and consistency throughout the design. They are essential for crafting a user-friendly and intuitive interface that enhances overall user engagement.
+
