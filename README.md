@@ -84,3 +84,103 @@ Time Efficiency: With predefined styles and components, developers can implement
 Brand Integrity: Consistent application of color schemes, typography, and design patterns helps maintain brand identity and build trust with users by providing a visually harmonious experience.
 By analyzing and documenting the design properties from the Figma mockup, this project can accurately replicate the intended design, ensuring a high-quality front-end implementation.
 
+# Project Roles and Responsibilities
+In order to successfully execute the Airbnb Clone project, clear definition and delegation of roles and responsibilities are crucial. Each team member plays an essential part in the project’s success, and this section outlines the key roles, their responsibilities, and their contributions to the project.
+
+1. Project Manager
+The Project Manager is responsible for overseeing the entire project from start to finish. Their main goal is to ensure that the project is completed on time, within budget, and meets the predefined quality standards.
+
+Key Responsibilities:
+
+Develop and maintain the project timeline and milestones.
+Coordinate between different teams and stakeholders.
+Monitor project progress and address any roadblocks.
+Ensure proper resource allocation and manage risks.
+Contribution to Success:
+
+Ensures the project stays on track, adheres to deadlines, and meets business goals.
+2. Frontend Developer
+Frontend Developers are responsible for building the client-side of the application, ensuring that the user interface is responsive, intuitive, and visually appealing.
+
+Key Responsibilities:
+
+Implement UI/UX designs using HTML, CSS, and JavaScript (or frameworks like React, Angular, etc.).
+Develop dynamic web pages and integrate with APIs.
+Ensure cross-browser compatibility and mobile responsiveness.
+Optimize front-end performance and user experience.
+Contribution to Success:
+
+Translates design concepts into a functional and engaging user interface.
+3. Backend Developer
+Backend Developers manage the server-side of the application, ensuring seamless data handling, security, and server integration.
+
+Key Responsibilities:
+
+Build and maintain the server, databases, and application logic.
+Develop APIs and integrate with the frontend.
+Handle data storage, security, and authentication processes.
+Ensure the scalability and performance of the server-side application.
+Contribution to Success:
+
+Enables smooth interaction between the user interface and server, ensuring functionality and data integrity.
+4. Designer
+Designers are responsible for the visual and interactive aspects of the application. They work closely with frontend developers to create a consistent and user-friendly design.
+
+Key Responsibilities:
+
+Create wireframes, mockups, and prototypes based on user research.
+Define the color schemes, typography, and design elements.
+Collaborate with frontend developers to ensure designs are feasible and well-executed.
+Conduct usability testing to validate design choices.
+Contribution to Success:
+
+Defines the user interface and ensures a visually appealing and intuitive user experience.
+5. QA/Tester
+QA/Testers ensure the final product meets the required quality standards. They are responsible for identifying bugs and issues before deployment.
+
+Key Responsibilities:
+
+Develop test cases and scenarios to verify the functionality of the application.
+Perform manual and automated testing for all features.
+Report bugs and track them until resolution.
+Verify that the application works across different devices and browsers.
+Contribution to Success:
+
+Ensures the product is stable, bug-free, and ready for production.
+6. DevOps Engineer
+DevOps Engineers focus on the development pipeline, automation, and ensuring continuous integration and delivery. They bridge the gap between development and IT operations.
+
+Key Responsibilities:
+
+Set up and maintain cloud infrastructure and services.
+Automate deployment and scaling of applications.
+Monitor the application’s performance and availability.
+Implement continuous integration and continuous deployment (CI/CD) pipelines.
+Contribution to Success:
+
+Streamlines development workflows and ensures smooth deployment and operation of the application.
+7. Product Owner
+The Product Owner represents the business side and is responsible for ensuring that the project meets user needs and business objectives.
+
+Key Responsibilities:
+
+Define and prioritize product features and requirements.
+Gather and analyze feedback from stakeholders and users.
+Ensure that the development team understands the product vision and goals.
+Approve deliverables and ensure they meet business needs.
+Contribution to Success:
+
+Provides the project with direction, ensuring that the product aligns with user and business expectations.
+8. Scrum Master
+The Scrum Master is responsible for facilitating agile development practices and ensuring that the development team follows Scrum methodology.
+
+Key Responsibilities:
+
+Organize and facilitate daily stand-ups, sprint planning, and retrospectives.
+Help remove obstacles and ensure the team is focused on high-priority tasks.
+Work with the Project Manager to align on project timelines and deliverables.
+Coach the team on Scrum practices and ensure that they are followed.
+Contribution to Success:
+
+Ensures that the development process is efficient, transparent, and agile, contributing to timely and high-quality product delivery.
+
